@@ -1,0 +1,75 @@
+Occupation,AgeGroup,Rank1,Rank2,Rank3,Rank4,Rank5
+K-12 student,18-35,Film-Noir,War,Action,Adventure,Mystery
+K-12 student,50+,Documentary,Film-Noir,Mystery,Animation,Musical
+K-12 student,Under 18,Comedy,Thriller,Documentary,Fantasy,Western
+academic/educator,18-35,Musical,Western,Documentary,War,Action
+academic/educator,36-50,Animation,Children's,Drama,War,Adventure
+academic/educator,50+,Animation,Drama,Thriller,Mystery,Romance
+academic/educator,Under 18,Animation,Film-Noir,Crime,Horror,Musical
+artist,18-35,Romance,Sci-Fi,Film-Noir,Animation,Crime
+artist,36-50,Adventure,Comedy,Mystery,Crime,Fantasy
+artist,50+,Documentary,Musical,Fantasy,Action,Film-Noir
+artist,Under 18,Film-Noir,Mystery,Documentary,Crime,Horror
+clerical/admin,18-35,Comedy,Fantasy,Horror,Animation,Thriller
+clerical/admin,36-50,Documentary,Film-Noir,Animation,Western,Fantasy
+clerical/admin,50+,Animation,Documentary,Fantasy,War,Crime
+college/grad student,18-35,Romance,Crime,Film-Noir,Children's,Fantasy
+college/grad student,36-50,Documentary,Film-Noir,War,Western,Animation
+college/grad student,Under 18,Children's,War,Film-Noir,Animation,Musical
+customer service,18-35,Documentary,Drama,Film-Noir,Mystery,Romance
+customer service,36-50,Film-Noir,Documentary,Comedy,War,Action
+customer service,50+,Musical,Comedy,Crime,Drama,Action
+doctor/health care,18-35,Mystery,Animation,Western,Adventure,Documentary
+doctor/health care,36-50,Documentary,Adventure,Sci-Fi,Western,War
+doctor/health care,50+,Film-Noir,Western,Children's,Fantasy,Horror
+eyecutive/managerial,18-35,Thriller,Western,Crime,Fantasy,Children's
+eyecutive/managerial,36-50,Documentary,Animation,Horror,War,Adventure
+eyecutive/managerial,50+,Western,Film-Noir,Documentary,Mystery,Adventure
+eyecutive/managerial,Under 18,Film-Noir,Musical,Mystery,War,Animation
+farmer,18-35,Film-Noir,Documentary,Western,Horror,Fantasy
+farmer,36-50,Documentary,Western,Film-Noir,Romance,War
+farmer,50+,Western,Crime,Mystery,Musical,Romance
+farmer,Under 18,War,Drama,Horror,Thriller,Western
+homemaker,18-35,Documentary,Children's,Fantasy,Film-Noir,Animation
+homemaker,36-50,Documentary,Film-Noir,Western,Animation,Drama
+homemaker,50+,Animation,Fantasy,Musical,Children's,Crime
+lawyer,18-35,Children's,Comedy,Fantasy,Romance,Adventure
+lawyer,36-50,Action,Film-Noir,Documentary,Animation,Drama
+lawyer,50+,Documentary,Western,Children's,Film-Noir,Fantasy
+lawyer,Under 18,War,Documentary,Crime,Romance,Mystery
+other,18-35,Documentary,Film-Noir,War,Thriller,Romance
+other,36-50,Crime,Fantasy,Film-Noir,Romance,Sci-Fi
+other,50+,Western,War,Documentary,Comedy,Film-Noir
+other,Under 18,Documentary,Adventure,Musical,Mystery,Crime
+programmer,18-35,Fantasy,Romance,Comedy,Documentary,Action
+programmer,36-50,Fantasy,Film-Noir,Sci-Fi,War,Documentary
+programmer,50+,Documentary,Children's,Western,Musical,Film-Noir
+programmer,Under 18,Mystery,War,Sci-Fi,Fantasy,Animation
+retired,18-35,Film-Noir,Animation,Documentary,Children's,Sci-Fi
+retired,36-50,Documentary,Horror,Drama,Musical,Animation
+retired,50+,Thriller,Animation,Horror,Musical,Drama
+retired,Under 18,Romance,Fantasy,Western,Film-Noir,Crime
+sales/marketing,18-35,Adventure,Comedy,Sci-Fi,Horror,Animation
+sales/marketing,36-50,Film-Noir,Documentary,War,Thriller,Musical
+sales/marketing,50+,Horror,Action,Western,Comedy,Documentary
+sales/marketing,Under 18,Animation,Fantasy,Musical,Romance,War
+scientist,18-35,Mystery,Thriller,War,Drama,Romance
+scientist,36-50,Film-Noir,Fantasy,Drama,Action,Romance
+scientist,50+,Documentary,Fantasy,Mystery,Animation,Children's
+self-employed,18-35,Action,Thriller,Fantasy,Adventure,Animation
+self-employed,36-50,Documentary,Adventure,Thriller,Romance,Children's
+self-employed,50+,Documentary,Drama,Romance,Crime,Film-Noir
+technician/engineer,18-35,Comedy,Western,War,Drama,Thriller
+technician/engineer,36-50,Drama,Mystery,War,Animation,Musical
+technician/engineer,50+,Documentary,War,Adventure,Horror,Western
+technician/engineer,Under 18,Romance,Action,Crime,War,Musical
+tradesman/craftsman,18-35,Fantasy,Drama,War,Western,Children's
+tradesman/craftsman,36-50,Thriller,Crime,Fantasy,Musical,Sci-Fi
+tradesman/craftsman,50+,Fantasy,Musical,Crime,Film-Noir,Adventure
+unemployed,18-35,Fantasy,Action,Adventure,Children's,Comedy
+unemployed,36-50,Animation,Documentary,Mystery,Adventure,Children's
+unemployed,50+,Animation,Musical,Film-Noir,Sci-Fi,Documentary
+unemployed,Under 18,Documentary,Film-Noir,Children's,Fantasy,Thriller
+writer,18-35,Fantasy,Western,Adventure,Drama,Romance
+writer,36-50,Thriller,Children's,Crime,Fantasy,Animation
+writer,50+,Documentary,Film-Noir,Fantasy,Mystery,Sci-Fi
